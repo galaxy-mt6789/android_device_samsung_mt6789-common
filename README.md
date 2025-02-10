@@ -4,4 +4,4 @@
 
 ## Supported Devices
  - [X115]()
- - []()
+ - [A165F]()
